@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Nothing(for now).
 - 🤔 I’m looking for help with NLP.
 - 💬 Ask me about ML Algorithms, NLP techniques and any tech related stuff.
-- 📫 How to reach me: [Linkedin - Abs Sayem](https://www.linkedin.com/in/abs-sayem-8a115a144/)
+- 📫 How to reach me: Check social links below
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spent a lot of time doing small things.
