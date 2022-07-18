@@ -19,12 +19,12 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=minimal"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abs-sayem&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abs-sayem&show_icons=true&theme=minimal" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abs-sayem&theme=vue" />
 </p>
 
