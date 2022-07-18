@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Spent a lot of time doing small things.
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tensorflow](https://img.shields.io/badge/Tensorflow-%20-critical?style=for-the-badge&logo=tensorflow&logoColor=ffdd54)
 
 ## 📈 Activity Graph
 <p align="center">
