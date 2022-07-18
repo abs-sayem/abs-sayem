@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Spent a lot of time doing small things.
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tensorflow](https://img.shields.io/badge/Tensorflow-%20-critical?style=for-the-badge&logo=tensorflow&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tensorflow](https://img.shields.io/badge/Tensorflow-%20-critical?style=for-the-badge&logo=tensorflow&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%20-lightgray?style=for-the-badge&logo=keras&logoColor=ffdd54) ![NLTK](https://img.shields.io/badge/NLTK-%20-success?style=for-the-badge&logo=nltk&logoColor=ffdd54) ![Spacy](https://img.shields.io/badge/Spacy-%10-orange?style=for-the-badge&logo=spacy&logoColor=ffdd54)
 
 ## 📈 Activity Graph
 <p align="center">
