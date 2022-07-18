@@ -14,12 +14,12 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=abs-sayem&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=abs-sayem&theme=vue"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=minimal"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
