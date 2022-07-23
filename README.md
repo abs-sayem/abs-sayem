@@ -22,7 +22,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ## 📟 GitHub Stats
 <p align="center">
