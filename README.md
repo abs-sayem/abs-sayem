@@ -14,7 +14,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=abs-sayem&theme=minimal"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abs-sayem&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
@@ -30,4 +30,4 @@
 </p>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-006600?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abs-sayem-8a115a144)[![Twitter](https://img.shields.io/twitter/follow/AbsSayem?logo=Twitter&style=for-the-badge)](https://twitter.com/AbsSayem)[![Instagram](https://img.shields.io/badge/Instagram-990000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sayem_abs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-006600?style=for-the-badge&logo=linkedin&logoColor=silver)](https://linkedin.com/in/abs-sayem-8a115a144)[![Twitter](https://img.shields.io/twitter/follow/AbsSayem?style=for-the-badge&logo=Twitter&logoColor=silver)](https://twitter.com/AbsSayem)[![Instagram](https://img.shields.io/badge/Instagram-990000?style=for-the-badge&logo=instagram&logoColor=silver)](https://instagram.com/sayem_abs)
