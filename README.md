@@ -18,9 +18,9 @@
 </p>
 
 ## 💳 Github Profile Summary Card
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=dracula)]"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=dracula"/>
 </p>
 
 ## 📟 GitHub Stats
