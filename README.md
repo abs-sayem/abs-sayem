@@ -18,9 +18,9 @@
 </p>
 
 ## 💳 Github Profile Summary Card
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
-  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=vue"/>
+<p align="center">
+  <img height="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
+  <img height="24.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
