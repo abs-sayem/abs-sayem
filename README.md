@@ -2,10 +2,10 @@
 ## 💫 About Me :
 - 🔭 I’m currently working on Natural Language Processing(NLP) and Computer Vision(CV).
 - 🌱 I’m currently learning NLTK, RegEx, Spacy, Gensim, RNN-LSTM-GRU-GCN-OpenPose, Tensorflow and Pytorch.
-- 👯 I’m looking to collaborate on Email and Linked(Check Socials below).
+- 👯 I’m looking to collaborate on Email and Linkedin(Check Socials below).
 - 🤔 I’m looking for help with NLP.
-- 💬 Ask me about ML Algorithms, NLP techniques and any tech related stuff.
-- 📫 How to reach me: Check social links below
+- 💬 Ask me about ML Algorithms, NLP Techniques and any tech related stuff.
+- 📫 How to reach me: Check social links below.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spent a lot of time doing small things.
 
