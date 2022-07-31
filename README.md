@@ -20,7 +20,7 @@
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-sayem&theme=vue"/>
-  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=vue"/>
+  <img width="21%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-sayem&hide=java,html,css&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
