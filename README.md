@@ -14,7 +14,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abs-sayem&theme=minimal"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abs-sayem&theme=vue"/>
 </p>
 
 ## 💳 Github Profile Summary Card
