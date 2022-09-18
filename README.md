@@ -30,4 +30,6 @@
 </p>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-006600?style=for-the-badge&logo=linkedin&logoColor=silver)](https://linkedin.com/in/abs-sayem-8a115a144)[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=silver)](https://twitter.com/AbsSayem)[![Instagram](https://img.shields.io/badge/Instagram-990000?style=for-the-badge&logo=instagram&logoColor=silver)](https://instagram.com/sayem_abs)
+<div weight="100" align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-006600?style=for-the-badge&logo=linkedin&logoColor=silver)](https://linkedin.com/in/abs-sayem-8a115a144) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=silver)](https://twitter.com/AbsSayem) [![Instagram](https://img.shields.io/badge/Instagram-990000?style=for-the-badge&logo=instagram&logoColor=silver)](https://instagram.com/sayem_abs)
+</div>
