@@ -14,7 +14,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="[![Abs Sayem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abs-sayem)](https://github.com/abs-sayem/github-readme-activity-graph)"/>
+  <img src="[!(https://github-readme-activity-graph.vercel.app/graph?username=Abs_Sayem)](https://github.com/abs-sayem/github-readme-activity-graph)"/>
 </p>
 
 ## 💳 Github Profile Summary Card
