@@ -1,14 +1,4 @@
 ### I'm Md. Abu Bakar Siddiq Sayem, a Machine Learning Enthusiast and Deep Learning Researcher.
-## 💫 About Me
-- 🔭 I’m currently working on Natural Language Processing(NLP) and Deep Learning.
-- 🌱 I’m currently learning NLTK, RegEx, Spacy, Gensim, RNN-LSTM-GRU-GCN-OpenPose, Tensorflow and Pytorch.
-- 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with NLP and Deep Learning.
-- 💬 Ask me about ML Algorithms, NLP Techniques and Any tech related stuff.
-- 📫 How to reach me: Check social links below.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Spent a lot of time doing small things.
-
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-000066?style=for-the-badge&logo=python&logoColor=cyan) ![Colaboratory](https://img.shields.io/badge/colaboratory-000000?style=for-the-badge&logo=colab&logoColor=yellow) ![Tensorflow](https://img.shields.io/badge/tensorflow-c90502?style=for-the-badge&logo=tensorflow&logoColor=silver) ![Keras](https://img.shields.io/badge/keras-16302f?style=for-the-badge&logo=keras&logoColor=silver) ![Pytorch](https://img.shields.io/badge/pytorch-330101?style=for-the-badge&logo=keras&logoColor=silver) ![NLTK](https://img.shields.io/badge/nltk-003300?style=for-the-badge&logo=nltk&logoColor=silver) ![Spacy](https://img.shields.io/badge/spacy-024f52?style=for-the-badge&logo=spacy&logoColor=silver) ![Gensim](https://img.shields.io/badge/gensim-c46602?style=for-the-badge&logo=gensim&logoColor=silver) ![RegEx](https://img.shields.io/badge/regex-010447?style=for-the-badge&logo=regex&logoColor=silver) ![Opencv](https://img.shields.io/badge/opencv-003300?style=for-the-badge&logo=opencv&logoColor=silver) ![Numpy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=silver) ![Pandas](https://img.shields.io/badge/pandas-3c0152?style=for-the-badge&logo=pandas&logoColor=silver) ![Matplotlib](https://img.shields.io/badge/matplotlib-40001c?style=for-the-badge&logo=matplotlib&logoColor=silver) ![CNN](https://img.shields.io/badge/cnn-003399?style=for-the-badge&logo=cnn&logoColor=silver) ![RNN](https://img.shields.io/badge/rnn-002109?style=for-the-badge&logo=rnn&logoColor=silver) ![LSTM](https://img.shields.io/badge/lstm-473001?style=for-the-badge&logo=lstm&logoColor=silver) ![Attention](https://img.shields.io/badge/attention-454545?style=for-the-badge&logo=attention&logoColor=gold) ![Transformer](https://img.shields.io/badge/transformer-374701?style=for-the-badge&logo=transformer&logoColor=silver)
 
